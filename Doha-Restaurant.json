@@ -1,0 +1,78 @@
+{
+    "restaurants":[
+        {
+            "name": "Sabai Thai",
+            "image":"images/Sabai.png",
+            "link":"https://www.sabaithaidoha.com/menu",
+            "description":"Sabai Thai will take you on an ultimate culinary journey of Thailand's cuisine and culture with a special menu designed by Chef Pawichada Thanaphibun",
+            "phone":"+974 3359 8514"
+        
+        }
+        ,
+        {
+            "name": "The kichen Doha",
+            "image":"images/kichen.png",
+            "link":"https://www.tablecheck.com/shops/hiltondoha-thepearl-thekitchen/reserve?utm_source=google",
+            "description":"Seasonal Tastes offers a wide array of international and local cuisine and a wide array of desserts. Offering a wide variety of flavors that will tantalize the taste buds of all the family. With an indoor and outdoor sitting areas, Seasonal Tastes offers is perfect leisurely lunches or intimate dinners.",
+            "phone":"+974 4492 4610"
+        }
+        ,
+        {
+            "name": "Hunters",
+            "image":"images/hunters.png",
+            "link":"https://www.huntersdoha.com/our-menus",
+            "description":"Having a private gathering to celebrate Thanksgiving at Home? Let us cook for you our Signature Turkey! Guess what, we are offering you a complimentary Pie To Go!",
+            "phone":"+974 3359 8514"
+        },
+        {
+            "name": "Claw BBQ Doha",
+            "image":"images/claw.png",
+            "link":"https://www.clawbbq.com/",
+            "description":"CLAW BBQ is the incarnation of America’s favorite style eatery featuring Southern hospitality at its best. The mood is fun, the vibe energetic, the food mouth wateringly delicious, and the cocktails… strong!",
+            "phone":"+974 4034 3111"
+        },
+        {
+            "name": "MADO Qatar",
+            "image":"images/mado.png",
+            "link":"https://www.madoqatar.com/",
+            "description":"Mado is the outcome of the transformation of our traditional family workshop that has been ice-cream makers for four generations, into modern production plants. Ice-cream and other products are prepared under cutting edge hygiene and quality standards in these world-class modern plants and are distributed under necessary conditions to our stores across Turkey and abroad; presented to the appreciation of your gusto, the esteemed gourmet.",
+            "phone":"+974 4436 4622"
+        },
+        {
+            "name": "HORATII Tiramisu Lounge",
+            "image":"images/horatti.png",
+            "link":"http://horatiilounge.com/",
+            "description":"Jacques-Louis David’s painting, the Oath of the Horatii [1784] is depicting the Roman legend of a conflict between the Romans and a rival neighboring city of Alba Longa. Rather than continue a full-scale war, they elect representative combatants to settle their dispute. The Romans select the trio brothers from Horatii family and the Albans choose another trio of brothers, the Curatii.",
+            "phone":"+974 3309 7715"
+        },
+        {
+            "name": "Al Terrace Georgian Cuisine - Souq Waqif",
+            "image":"images/terrace.png",
+            "link":"https://www.instagram.com/alterracedoha/",
+            "description":"Restaurant with homemade Georgian food",
+            "phone":"+974 3032 0031"
+        },
+        {
+            "name": "Jiwan Restaurant",
+            "image":"images/jiwan.png",
+            "link":"https://www.jiwan.qa/",
+            "description":"Jiwan is located on the fourth floor of the National Museum of Qatar (NMoQ) and is an essential chapter in the museum’s storytelling experience. Design works in harmony with the menu to give you a taste of Qatar’s nature and rich traditions linked to activities by the sea. The result is a calming, comfortable environment to enjoy the essence of Qatar.",
+            "phone":"+974 4452 5725"
+        },
+        {
+            "name": "Paper Moon Doha",
+            "image":"images/paper.png",
+            "link":"https://www.papermoonrestaurants.com/paper-moon-doha.html",
+            "description":"Known as one of the best Italian restaurants in Doha, Paper Moon Doha is conveniently located on the first floor of the iconic new Jaidah Square Building on Al Matar Street. This legendary Italian restaurant brand delivers a fashionable, relaxed ambience and luscious, authentic Italian fare by using the freshest seasonal ingredients.",
+            "phone":"+974 5674 3459"
+        },
+        {
+            "name": "Benjarong Doha - Thai Restaurant",
+            "image":"images/benjarong.png",
+            "link":"https://www.dusit.com/dusitdoha-hotel/dining/",
+            "description":"Enhance your stay with memorable dining experiences. Indulge in dazzling buffets, fine steak and seafood or royal Thai cuisine. Treat yourself to fresh French pastries or sip cocktails on the roof, overlooking the city. The choice is yours.",
+            "phone":"+974 4004 4444"
+        }
+        
+    ]
+}

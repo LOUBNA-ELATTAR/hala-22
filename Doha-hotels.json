@@ -1,0 +1,88 @@
+{
+    "hotels":[
+        {
+            "name":"FOUR SEASON HOTEL DOHA",
+            "link":"https://www.fourseasons.com/doha/",
+            "image":"images/hotel1.jpeg",
+            "location":"https://www.fourseasons.com/doha/getting-here/",
+            "price":"2 000 Riyals",
+            "phone":"+974 4034 3333"
+        },
+        {
+            "name":"Plaza Inn Hotel",
+            "link":"https://www.plazainn.com.qa/#utm_source=local&utm_medium=organic&utm_campaign=GMB",
+            "image":"images/hotel2.png",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=rPIJTSjGpWA&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KRvQNtRsxUU-MTo8pKQ7AgfV&daddr=Al+Meena+St,+Doha,+Qatar",
+            "price":"3 485 Riyals",
+            "phone":"+974 4034 3333"
+
+        },
+        {
+            "name":"DoubleTree by Hilton Doha - Old Town",
+            "link":"https://www.hilton.com/en/hotels/dohotdi-doubletree-doha-old-town/?SEO_id=GMB-EMEA-DI-DOHOTDI",
+            "image":"images/hotel3.png",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=QrIhd0kFQI8&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KTMiktQSxUU-MVG5t6BapN3r&daddr=Al+Meena+St,+Doha,+Qatar",
+            "price":"10 485 Riyals",
+            "phone":"+974 4034 3333"
+
+        },
+        {
+            "name":"DoubleTree by Hilton Doha - Old Town",
+            "link":"https://www.hilton.com/en/hotels/dohotdi-doubletree-doha-old-town/?SEO_id=GMB-EMEA-DI-DOHOTDI",
+            "image":"images/hotel4.jpeg",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=QrIhd0kFQI8&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KTMiktQSxUU-MVG5t6BapN3r&daddr=Al+Meena+St,+Doha,+Qatar",
+            "price":"3 685 Riyals",
+            "phone":"+974 4494 8888"
+        },
+        {
+            "name":"Holiday Inn Doha - the Business Park, an IHG Hotel",
+            "link":"https://www.ihg.com/holidayinn/hotels/gb/en/doha/dohbp/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-QA-_-DOHBP",
+            "image":"images/hotel5.jpeg",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=Cve_5zSH4r4&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KdWLZhVkxUU-MRbJ2BxSQCNc&daddr=Business+Park,+Airport+St,+Doha,+Qatar",
+            "price":"30 485 Riyals",
+            "phone":"+974 4031 3333"
+        },
+        {
+            "name":"Premier Inn Doha Education City Hotel",
+            "link":"https://mena.premierinn.com/en/hotel/doha-education-city",
+            "image":"images/hotel6.jpeg",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=riGb6S7d8W4&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KTVOBdUD3EU-MU3s6Fk_JtGw&daddr=Behind+Qncc,+Al+Yass+St,+Doha,+Qatar",
+            "price":"30 485 Riyals",
+            "phone":"+974 4007 8333"
+        },
+        {
+            "name":"The Royal Riviera Hotel Qatar",
+            "link":"http://www.theroyalrivierahotel.com.qa/",
+            "image":"images/hotel7.jpeg",
+            "location":"https://www.google.com/maps/dir//29444+Al+Safliya+St,+Doha,+Qatar/@25.2889146,51.4722925,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3e45c5137408897d:0xaad0e87599958064!2m2!1d51.5423328!2d25.2889311",
+            "price":"30 485 Riyals",
+            "phone":"+974 4007 8333"
+
+        },
+        {
+            "name":"Chairmen Hotel Doha",
+            "link":"http://www.chairmenhotel.com/",
+            "image":"images/hotel8.jpeg",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=kfyIv8Cxdls&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KcPboyNgxUU-MQmveZy9Zr6A&daddr=Najma,+Doha,+Qatar",
+            "price":"30 485 Riyals",
+            "phone":"+974 4426 0444"
+        },
+        {
+            "name":"Souq Al Wakra Hotel Qatar by Tivoli",
+            "link":"https://www.tivolihotels.com/souq-al-wakra-tivoli?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=SouqAlWakraTivoli&utm_content=Home&utm_campaign=Google_GMB",
+            "image":"images/hotel9.jpeg",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=UN7pZWBobgs&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=Ke19XbKCy0U-MQIksGqcIHFW&daddr=Street+891%D8%8C+Al+Loulou,+Qatar",
+            "price":"30 485 Riyals",
+            "phone":"+974 4428 7888"
+        },
+        {
+            "name":"Wyndham Grand Regency Doha",
+            "link":"https://www.wyndhamhotels.com/wyndham-grand/doha-qatar/wyndham-grand-regency-doha/overview?CID=LC:GR::GGL:RIO:National:40691&iata=00093796",
+            "image":"images/hotel10.jpeg",
+            "location":"https://www.google.com/maps?rlz=1C5CHFA_enMA974MA974&lqi=Cgxob3RlbHMgcWF0YXKSAQVob3RlbKoBDhABKgoiBmhvdGVscygE&phdesc=e7dWxx6vc60&vet=12ahUKEwi_ruf8m5X8AhXdTKQEHRFFDioQ8UF6BAgDEC4..i&lei=Mn6oY7_NDd2ZkdUPkYq50AI&cs=0&um=1&ie=UTF-8&fb=1&gl=ma&sa=X&geocode=KdXLow_f2kU-MUmRKEPBPTjP&daddr=Jawaan+St,+Doha,+Qatar",
+            "price":"30 485 Riyals",
+            "phone":"+974 4434 3333"
+        }
+
+    ]
+}
